@@ -1,7 +1,9 @@
 body {
-  background-color: azure;
+  background-color: rgb(237, 240, 240);
 }
-h1,
-h3 {
+h1 {
+  text-align: center;
+}
+footer {
   text-align: center;
 }
